@@ -1,4 +1,4 @@
-# ABOUT 
+# About 
 
 Physics Ph.D. stduent at Texas A&M University.  
 
